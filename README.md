@@ -9,7 +9,23 @@ Related links :
 1.7.2 server information :
 * server address : mcdf.asuscomm.com    
 * server port : 101    
-* Map server : [http://mcdf.asuscomm.com:100/](http://mcdf.asuscomm.com:100/)    
+* Map server : [http://mcdf.asuscomm.com:100/](http://mcdf.asuscomm.com:100/)  
+* Map : 
+	* world : 主要世界
+	* world nether
+	* world the end
+	* Mao Mao
+	* allen
+	* castle
+	* china : 中國紫禁城
+	* comic world
+	* island
+	* ken
+	* new
+	* sky
+	* survive : 生存模式地圖
+	* world1 : 最一開始創立於2012年的世界
+	* yucsh : 育成高中
 * plugin :
 	*  AuthMe ： 登入器
 	*  AutoSaveWorld ： 自動存擋
