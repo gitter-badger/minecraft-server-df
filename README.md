@@ -1,6 +1,6 @@
 # Minecraft-Server-DF
 [![owner1](https://img.shields.io/badge/Powered%20by-PW--Chen-blue.svg?style=flat)](https://github.com/PW-Chen)
-
+[![coverphoto](https://raw.githubusercontent.com/PW-Chen/minecraft-server-df/master/image/Coverphoto.jpg)]
 Related links : 
 * [Google site](https://sites.google.com/site/minecraftserverdf)
 * [Official website](http://mcdf.asuscomm.com/)
