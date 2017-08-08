@@ -5,6 +5,7 @@ Related links :
 * [Google site](https://sites.google.com/site/minecraftserverdf)
 * [Official website](http://mcdf.asuscomm.com/)
 * [Facebook community](https://www.facebook.com/groups/mcserverdf/)
+* [玩家調查](https://docs.google.com/forms/d/e/1FAIpQLScEz4JI-V2mWwz7Ca0pAprlolp2PvfwNBee7k3VvjmFm_Wlug/viewform)
 
 1.7.2 server information :
 * server address : mcdf.asuscomm.com    
