@@ -1,9 +1,17 @@
 # Minecraft-Server-DF
 [![owner1](https://img.shields.io/badge/Powered%20by-PW--Chen-blue.svg?style=flat)](https://github.com/PW-Chen)
 
-[1.7.2 Web Map](http://mcdf.asuscomm.com:100/)    
+Related links : 
+* [Google site](https://sites.google.com/site/minecraftserverdf)
+* [Official website](http://mcdf.asuscomm.com/)
 
-1.7.2 server information:
+1.7.2 server information :
 * server address : mcdf.asuscomm.com    
 * server port : 101    
+* Map server : [http://mcdf.asuscomm.com:100/](http://mcdf.asuscomm.com:100/)    
+
+Download :
+* [JDK 7 64bit windows](https://mega.nz/#!sR8GjQ4L!Am8PNP0TSAbavrXcsUZdvKw_eyFa7ACrkUK3F-gwQUo) : 玩1.7.2時你會需要他 
+* [Java 8 64bit windows](https://mega.nz/#!YdFzHZxa!HoRjDqVJyG4UiQQ6rdgjqFaVK9ApsNR2vbDye7LcSDY) 
+* [1.7.2 & 1.8 一鍵安裝](https://mega.nz/#!4B0DiA4B!kAl3-n1pCS36_Kx11nivfRo4bo9Xn9Sy0gFyh2q3Bi4) : 中文輸入、小地圖、背包排序（使用1.7.2需要修改ＪＡＶＡ路徑）
 
