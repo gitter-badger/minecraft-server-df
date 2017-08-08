@@ -1,4 +1,6 @@
 # Minecraft-Server-DF
+
+[![Join the chat at https://gitter.im/PW-Chen/minecraft-server-df](https://badges.gitter.im/PW-Chen/minecraft-server-df.svg)](https://gitter.im/PW-Chen/minecraft-server-df?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![owner1](https://img.shields.io/badge/Powered%20by-PW--Chen-blue.svg?style=flat)](https://github.com/PW-Chen)
 ![coverphoto](https://raw.githubusercontent.com/PW-Chen/minecraft-server-df/master/image/Coverphoto.jpg)    
 Related links : 
